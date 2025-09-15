@@ -26,5 +26,9 @@ Dados nacionais sobre a Covid-19: https://covid.saude.gov.br/
 
 -Visualizações e Dashboards
 
+## Observação⚠️:
+Para visualizar o dashboard interativo, faça download do arquivo e abara-o no Power BI Desktop. *Também é possível visualizá-lo na versão mobile do Power BI*
+
+
 
 
