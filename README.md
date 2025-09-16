@@ -30,5 +30,24 @@ Dados nacionais sobre a Covid-19: https://covid.saude.gov.br/
 Para visualizar o dashboard interativo, faça download do arquivo e abara-o no Power BI Desktop. *Também é possível visualizá-lo na versão mobile do Power BI*
 
 
+## Pré-visualização 👁️:
+
+### Visão Geral
+<img width="1418" height="739" alt="Captura de tela 2025-09-12 000047" src="https://github.com/user-attachments/assets/02c0ba1d-7bfa-42db-b1bd-e9f0238282f1" />
+
+### Análise por Região
+<img width="1419" height="739" alt="Captura de tela 2025-09-12 000123" src="https://github.com/user-attachments/assets/555cc879-967c-43a0-b993-606cdc2406e6" />
+
+### Análise por Estado
+<img width="1416" height="735" alt="Captura de tela 2025-09-12 000223" src="https://github.com/user-attachments/assets/a0209f29-37ae-4be1-9015-e200e5d89a9d" />
+
+### Análise Geográfica
+<img width="1414" height="734" alt="Captura de tela 2025-09-12 000309" src="https://github.com/user-attachments/assets/051c28d1-5e97-475a-88a1-fd7d9f08df17" />
+
+### Dados Detalhados
+<img width="1411" height="734" alt="Captura de tela 2025-09-12 000354" src="https://github.com/user-attachments/assets/808891da-5faf-4d0c-bae4-d99951dbe782" />
+
+
+
 
 
